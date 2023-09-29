@@ -36,5 +36,5 @@ Esto sirve para visualizar el codigo y que no se ejecute:
 </html> 
 ```
 [Esto es un enlace](https://joan23.fje.edu "Enlace a la web del cole")
-[Esto es una imagen del cielo](https://github.com/Marioto33/ASIX1-M4-UF1-A3-Apuntes/blob/main/cielo.jpeg "imagen del cielo azul")
 
+[Esto es una imagen del cielo](https://github.com/Marioto33/ASIX1-M4-UF1-A3-Apuntes/blob/main/cielo.jpeg "imagen del cielo azul")
