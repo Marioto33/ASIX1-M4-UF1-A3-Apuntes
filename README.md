@@ -45,6 +45,8 @@ Esto sirve para visualizar el codigo y que no se ejecute:
 |col3|Derecha|134€|
 |estilo cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+
 -| | Opcion 1
 -|x| Opcion 2
 -| | Opcion 3
